@@ -24,7 +24,9 @@ Servers Available:
 NL
 <br><br>
 To help us maintain this for free, donate us at:
+<br>
 https://paypal.me/leakmania
 <br><br>
 Or purchase the Insider rank at:
+<br>
 https://leakmania.com/forum/index.php?account/upgrades​
