@@ -33,6 +33,7 @@ Partial Class Main
         Me.GUI.Location = New System.Drawing.Point(0, 261)
         Me.GUI.MinimumSize = New System.Drawing.Size(20, 20)
         Me.GUI.Name = "GUI"
+        Me.GUI.ScriptErrorsSuppressed = True
         Me.GUI.ScrollBarsEnabled = False
         Me.GUI.Size = New System.Drawing.Size(684, 100)
         Me.GUI.TabIndex = 0
