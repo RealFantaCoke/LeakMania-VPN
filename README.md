@@ -20,6 +20,7 @@ Choose the server you want to use.
 To be sure all connections pass though the VPN, click on "Check Connection".
 <br><br>
 Servers Available:
+<br>
 NL
 <br><br>
 To help us maintain this for free, donate us at:
