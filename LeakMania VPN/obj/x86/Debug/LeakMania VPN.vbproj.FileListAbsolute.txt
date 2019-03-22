@@ -1,9 +1,9 @@
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\bin\x86\Debug\LeakMania VPN.exe.config
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\bin\x86\Debug\LeakMania VPN.exe
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\bin\x86\Debug\LeakMania VPN.pdb
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\obj\x86\Debug\LeakMania_VPN.GeoIP.resources
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\obj\x86\Debug\LeakMania_VPN.Main.resources
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\obj\x86\Debug\LeakMania_VPN.Resources.resources
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\obj\x86\Debug\LeakMania VPN.vbproj.GenerateResource.Cache
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\obj\x86\Debug\LeakMania VPN.exe
-C:\Users\Maintenance\Documents\Visual Studio 2012\Projects\LeakMania VPN\LeakMania VPN\obj\x86\Debug\LeakMania VPN.pdb
+E:\Git\LeakMania-VPN\LeakMania VPN\bin\x86\Debug\LeakMania VPN.exe.config
+E:\Git\LeakMania-VPN\LeakMania VPN\bin\x86\Debug\LeakMania VPN.exe
+E:\Git\LeakMania-VPN\LeakMania VPN\bin\x86\Debug\LeakMania VPN.pdb
+E:\Git\LeakMania-VPN\LeakMania VPN\obj\x86\Debug\LeakMania_VPN.GeoIP.resources
+E:\Git\LeakMania-VPN\LeakMania VPN\obj\x86\Debug\LeakMania_VPN.Main.resources
+E:\Git\LeakMania-VPN\LeakMania VPN\obj\x86\Debug\LeakMania_VPN.Resources.resources
+E:\Git\LeakMania-VPN\LeakMania VPN\obj\x86\Debug\LeakMania VPN.vbproj.GenerateResource.Cache
+E:\Git\LeakMania-VPN\LeakMania VPN\obj\x86\Debug\LeakMania VPN.exe
+E:\Git\LeakMania-VPN\LeakMania VPN\obj\x86\Debug\LeakMania VPN.pdb
